@@ -1,5 +1,28 @@
-1 create  branch git  branch  
-2 checkout  branch  git  checkout   branchname:
-3 git   branch   -d   branchname  #delete  branch
-4  git branch -D devlop2  #  delete branch   
+1 创建分支
+	git  branch   branchname
+2 切换分支
+	git  checkout   branchname:
+3 删除分支
+	git   branch   -d   branchname  
+4 强制删除  与-d的区别是 如果部分更改没提交 直接强制删除
+	git branch -D devlop2  #  delete branch   
+5 合并分支  首先切换到要合并的分支上面
+	git  merge    branchfilename
 
+
+
+ 创建远程仓库
+create a new repository on the command line
+
+echo "# pythontext" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/tianya1993/pythontext.git
+git push -u origin master
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/tianya1993/pythontext.git
+git push -u origin master
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
