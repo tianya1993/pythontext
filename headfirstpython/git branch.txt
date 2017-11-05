@@ -1,3 +1,0 @@
-1 create  branch git  branch  
-2¡¢checkout  branch  git  checkout   branchname
-3
