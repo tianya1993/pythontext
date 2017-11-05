@@ -1,2 +1,3 @@
-1、创建分支  git  branch  
-2、切换分支  git  checkout   branchname
+1 create  branch git  branch  
+2、checkout  branch  git  checkout   branchname
+3
