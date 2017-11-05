@@ -1,3 +1,5 @@
 1 create  branch git  branch  
 2 checkout  branch  git  checkout   branchname:
 3 git   branch   -d   branchname  #delete  branch
+4  git branch -D devlop2  #  delete branch   
+
