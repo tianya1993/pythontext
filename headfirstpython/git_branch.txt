@@ -1,28 +1,65 @@
-1 创建分支
+git常用命令
+创建仓库
+	git  init
+提交代码到本地仓库 
+	git  add 
+	git   commit   -m   " "
+查看任意时刻的状态
+	git  status
+查看历史记录
+	git log 
+查看历史日志（log）的详情  
+	git show
+撤销本地刚才提交 
+	git  reset
+取出历史版本
+	git  checkout
+删除本地文件
+	git  rm
+添加时忽略一些文件 
+	git  ignore
+
+本地分支的创建、切换、删除
 	git  branch   branchname
-2 切换分支
 	git  checkout   branchname:
-3 删除分支
 	git   branch   -d   branchname  
-4 强制删除  与-d的区别是 如果部分更改没提交 直接强制删除
+强制删除  与-d的区别是 如果部分更改没提交 直接强制删除
 	git branch -D devlop2  #  delete branch   
-5 合并分支  首先切换到要合并的分支上面
+5合并分支  首先切换到要合并的分支上面
 	git  merge    branchfilename
 
 
 
- 创建远程仓库
-create a new repository on the command line
+创建远程仓库
+	create a new repository on the command line
 
-echo "# pythontext" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/tianya1993/pythontext.git
-git push -u origin master
-…or push an existing repository from the command line
+	echo "# pythontext" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git remote add origin https://github.com/tianya1993/pythontext.git
+	git push -u origin master
+	push an existing repository from the command line
 
-git remote add origin https://github.com/tianya1993/pythontext.git
-git push -u origin master
-…or import code from another repository
-You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+	git remote add origin https://github.com/tianya1993/pythontext.git
+	git push -u origin master
+
+	import code from another repository
+	You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+
+
+
+代码管理工具
+	github  gitlab   coding.net  SVN 等
+
+git  origin的含义
+	git   push   origin  master   #origin  远程git repo别名  本地的master  推送到远程
+
+
+协助的过程（不考虑冲突）
+	git pull
+	git push
+
+
+
