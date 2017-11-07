@@ -1,0 +1,41 @@
+老男孩教育全栈视频教程第二期
+
+金角大王
+银角大王
+
+
+python基础
+Linux基础
+MySQL数据库
+Web前端开发
+Web框架
+Python全栈项目实战
+
+
+
+Python基础教程
+1、python的核心数据类型
+	字符串
+	数字
+	列表
+	字典
+	元组
+	集合
+	其他类型  布尔等
+
+
+
+2、
+
+
+
+
+3
+
+关键字
+变量名称：数字、字母、下划线  不能以数字开头 不能与关键字冲突
+import  keyword
+print(keyword.kwlist)
+
+Python关键字 
+['False', 'None', 'True', 'and', 'as', 'assert', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
