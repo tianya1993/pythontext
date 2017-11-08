@@ -15,22 +15,24 @@ class   Student(object):
         self.grade=self.grade+ amount
     def absent(self,number=5):
         self.phone=self.phone*number
-jim=Student("docker",88,"男","北京东路","13830990518")
-jim.introduce()
-jim.improve(10)
-jim.introduce()
-
-mysql=Student("mysql",90,"女","上海市","13220880518")
-mysql.introduce()
-cassandra=Student("cassandra",10,"男","上海市","13220880518")
-cassandra.introduce()
-cassandra.absent(2)
-cassandra.introduce()
 class   studentinfo(Student):
     def __init__(self,job,user_id):
         self.job=job
         self.user_id=user_id
     def printinfo(self):
         print("Job:{},userid:{}".format(self.job,self.user_id))
+jim=Student("docker",88,"男","北京东路","13830990518")#实例化jim
+jim.introduce()#调用introduce()方法
+jim.improve(10)
+jim.introduce()
+
+mysql=Student("mysql",90,"女","上海市","13220880518")
+mysql.introduce()
+
+cassandra=Student("cassandra",10,"男","上海市","13220880518")
+cassandra.introduce()
+cassandra.absent(2)
+cassandra.introduce()
+
 liming=studentinfo("mysqlDBA",1)
 liming.printinfo()
