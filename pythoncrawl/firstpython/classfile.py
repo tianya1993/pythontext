@@ -20,7 +20,7 @@ class   studentinfo(Student):
         self.job=job
         self.user_id=user_id
     def printinfo(self):
-        print("Job:{},userid:{}".format(self.job,self.user_id))
+        print("Job: %s userid:%s" %(self.job,self.user_id))#%s输出格式化
 jim=Student("docker",88,"男","北京东路","13830990518")#实例化jim
 jim.introduce()#调用introduce()方法
 jim.improve(10)
