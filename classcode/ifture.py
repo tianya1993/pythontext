@@ -19,5 +19,7 @@ for index in L:
 print(L2)
 """
 L1 = ['Hello', 'World', 18, 'Apple', None,"66",[18, 'Apple', None,"66"]]
-L2 = [x.pop() for x in L1 if isinstance(x, (list))]
-print(L2)
+#L2 = [x**2 for x in L1 if isinstance(x, (str))]
+#print(L2)
+L3=[x+"1"  for x  in L1 if   isinstance(x,(str))]
+print(L3)
