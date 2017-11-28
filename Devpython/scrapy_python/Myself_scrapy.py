@@ -1,27 +1,30 @@
-访问模块  urllib
-读取文件
-read()  读取所有的内容  read(size)
-readline() 读取一行
-readlines() 读取所有的行 到一个列表
-下载文件的两种方式
-1、打开某个文件 将其写入
-with open("index.html","wb") as  file:
-    file.write(data)
-2、直接使用urllib.request.urlretrieve()保存
-file=urllib.request.urlretrieve("http://www.baidu.com","index.html")
+#!/usr/bin/env python
+#-*-coding:utf-8-*-
+import  urllib.request
+"""
+url="https://uat.bundcredit.com/frontend/login"
+req=urllib.request.Request(url)
+req.add_header("User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0")
+data=urllib.request.urlopen(req).read()
+print(data)
+"""
+"""
+url = "https://uat.bundcredit.com/frontend/login"
+heards = ("User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0")
+opener=urllib.request.build_opener()
+opener.addheaders=[heards]
+data=opener.open(url).read()
+print(data)
+"""
 
-Headers头伪装方法一
+"""
+file=urllib.request.urlretrieve("http://www.baidu.com","index.html")
 url="http://www.baidu.com"
 req=urllib.request.Request(url)
 req.add_header("User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0")
 data=urllib.request.urlopen(req).read()
 print(data)
-url="http://www.baidu.com"
-req=urllib.request.Request(url)
-req.add_header("User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0")
-data=urllib.request.urlopen(req).read()
-print(data)
-Header伪装方法二
+"""
 url="http://www.baidu.com"
 headers=("User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0")
 opener=urllib.request.build_opener()
