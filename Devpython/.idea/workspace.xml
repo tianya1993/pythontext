@@ -11,70 +11,31 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Devpython$Scrapy1.coverage" NAME="Scrapy1 Coverage Results" MODIFIED="1511700417800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_python" />
+    <SUITE FILE_PATH="coverage/Devpython$jishu_1_100.coverage" NAME="jishu_1_100 Coverage Results" MODIFIED="1511939487345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oldboy_wusirblog/blog1" />
     <SUITE FILE_PATH="coverage/Devpython$Scrapy_proxy.coverage" NAME="Scrapy_proxy Coverage Results" MODIFIED="1511834558284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_python" />
     <SUITE FILE_PATH="coverage/Devpython$ipaddr_info.coverage" NAME="ipaddr_info Coverage Results" MODIFIED="1511507488336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/monitor" />
+    <SUITE FILE_PATH="coverage/Devpython$web_socket.coverage" NAME="web_socket Coverage Results" MODIFIED="1511938002883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_python_django" />
     <SUITE FILE_PATH="coverage/Devpython$scrapy_2.coverage" NAME="scrapy_2 Coverage Results" MODIFIED="1511767207640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_python" />
     <SUITE FILE_PATH="coverage/Devpython$re_python.coverage" NAME="re_python Coverage Results" MODIFIED="1511773653710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re_python" />
     <SUITE FILE_PATH="coverage/Devpython$objectclass.coverage" NAME="objectclass Coverage Results" MODIFIED="1511507228458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_class" />
     <SUITE FILE_PATH="coverage/Devpython$9_9.coverage" NAME="9_9 Coverage Results" MODIFIED="1511770802417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_string" />
+    <SUITE FILE_PATH="coverage/Devpython$while_number.coverage" NAME="while_number Coverage Results" MODIFIED="1511938729456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oldboy_wusirblog/blog1" />
     <SUITE FILE_PATH="coverage/Devpython$Myself_scrapy.coverage" NAME="Myself_scrapy Coverage Results" MODIFIED="1511840137569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_python" />
     <SUITE FILE_PATH="coverage/Devpython$JD_re_python.coverage" NAME="JD_re_python Coverage Results" MODIFIED="1511849339001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re_python" />
+    <SUITE FILE_PATH="coverage/Devpython$sum_1_100.coverage" NAME="sum_1_100 Coverage Results" MODIFIED="1511938851141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oldboy_wusirblog/blog1" />
     <SUITE FILE_PATH="coverage/Devpython$client.coverage" NAME="client Coverage Results" MODIFIED="1510904768782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/http" />
     <SUITE FILE_PATH="coverage/Devpython$ngin_log_access.coverage" NAME="ngin_log_access Coverage Results" MODIFIED="1511507501819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/monitor" />
     <SUITE FILE_PATH="coverage/Devpython$sys_monitor.coverage" NAME="sys_monitor Coverage Results" MODIFIED="1511857643784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/monitor" />
     <SUITE FILE_PATH="coverage/Devpython$basic_string.coverage" NAME="basic_string Coverage Results" MODIFIED="1510648041891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookbook/cookbook_text" />
+    <SUITE FILE_PATH="coverage/Devpython$ssh_client.coverage" NAME="ssh_client Coverage Results" MODIFIED="1511942778978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oldboy_wusirblog/SSH_client" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Scrapy1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapy_python/Scrapy1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="e#41#64#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Myself_scrapy.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapy_python/Myself_scrapy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="891">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="32" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Scrapy_proxy.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapy_python/Scrapy_proxy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="5" column="67" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="67" />
-              <folding>
-                <element signature="e#42#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="re_python.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/re_python/re_python.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Jd_scrapy_photo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scrapy_python/Jd_scrapy_photo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#42#51#0" expanded="true" />
               </folding>
@@ -92,238 +53,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sys_monitor.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sys_monitor.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/monitor/sys_monitor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-532">
-              <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <state relative-caret-position="260">
+              <caret line="8" column="18" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="29" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jd.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapy_python/jd.html">
+      <file leaf-file-name="web_socket.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web_python_django/web_socket.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11084">
-              <caret line="2973" column="0" lean-forward="false" selection-start-line="2973" selection-start-column="0" selection-end-line="2973" selection-end-column="0" />
-              <folding>
-                <element signature="e#59210#59216#0" expanded="true" />
-                <element signature="e#59216#59222#0" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#61707#61711#1" expanded="true" />
-                <element signature="e#68621#68625#1" expanded="true" />
-                <element signature="e#69121#69125#1" expanded="true" />
-                <element signature="e#69572#69576#1" expanded="true" />
-                <element signature="e#70002#70008#0" expanded="true" />
-                <element signature="n#style#0;n#li#27;n#ul#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#3;n#div#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#4;n#div#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#5;n#div#0;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#0;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#1;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#1;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#1;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#2;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#2;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#2;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#3;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#3;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#3;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#4;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#4;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#4;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#5;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#5;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#5;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#6;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#6;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#6;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#7;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#7;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#8;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#8;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#8;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#9;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#9;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#9;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#10;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#10;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#10;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#11;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#11;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#11;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#12;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#12;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#12;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#13;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#13;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#13;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#14;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#14;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#14;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#15;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#15;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#15;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#16;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#16;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#16;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#17;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#17;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#17;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#18;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#18;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#18;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#19;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#19;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#19;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#20;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#20;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#20;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#21;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#21;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#21;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#22;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#22;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#22;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#23;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#23;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#23;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#24;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#24;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#24;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#25;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#25;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#25;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#26;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#26;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#26;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#27;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#27;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#27;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#28;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#28;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#28;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#29;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#29;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#29;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#30;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#30;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#30;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#31;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#31;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#31;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#32;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#32;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#32;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#33;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#33;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#33;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#34;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#34;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#34;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#35;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#35;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#35;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#36;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#36;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#36;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#37;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#37;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#37;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#38;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#38;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#38;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#39;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#39;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#39;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#40;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#40;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#40;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#41;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#41;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#41;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#42;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#42;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#42;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#43;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#43;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#43;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#44;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#44;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#44;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#45;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#45;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#45;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#46;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#46;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#46;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#47;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#47;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#47;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#48;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#48;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#48;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#49;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#49;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#49;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#50;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#50;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#50;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#51;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#51;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#51;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#52;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#52;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#52;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#53;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#53;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#53;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#54;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#54;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#54;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#55;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#55;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#55;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#56;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#56;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#56;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#57;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#57;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#57;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#58;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#58;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#58;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#strong#1;n#div#2;n#div#0;n#li#59;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#em#0;n#a#0;n#div#3;n#div#0;n#li#59;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#8;n#div#0;n#li#59;n#ul#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#237421#237427#0" expanded="true" />
-                <element signature="e#237427#237433#0" expanded="true" />
-                <element signature="e#245077#245083#0" expanded="true" />
-                <element signature="e#245508#245514#0" expanded="true" />
-                <element signature="e#245514#245520#0" expanded="true" />
-                <element signature="e#245520#245526#0" expanded="true" />
-                <element signature="e#245530#245536#0" expanded="true" />
-                <element signature="e#245537#245543#0" expanded="true" />
-                <element signature="e#245576#245582#0" expanded="true" />
-                <element signature="e#245582#245588#0" expanded="true" />
-                <element signature="e#245596#245602#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="271">
+              <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jd.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/re_python/jd.html">
+      <file leaf-file-name="while_number.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oldboy_wusirblog/blog1/while_number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-222">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="205">
+              <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sum_1_100.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oldboy_wusirblog/blog1/sum_1_100.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jishu_1_100.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oldboy_wusirblog/blog1/jishu_1_100.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ssh_client.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oldboy_wusirblog/SSH_client/ssh_client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deal_file.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/deal_file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -333,7 +127,7 @@
         <entry file="file://$PROJECT_DIR$/re_python/JD_re_python.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
-              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -383,6 +177,13 @@
         <option value="$PROJECT_DIR$/scrapy_python/Jd_scrapy_photo.py" />
         <option value="$PROJECT_DIR$/re_python/JD_re_python.py" />
         <option value="$PROJECT_DIR$/monitor/ipaddr_info.py" />
+        <option value="$PROJECT_DIR$/web_python_django/web_socket.py" />
+        <option value="$PROJECT_DIR$/oldboy_wusirblog/blog1/while_number.py" />
+        <option value="$PROJECT_DIR$/oldboy_wusirblog/blog1/sum_1_100.py" />
+        <option value="$PROJECT_DIR$/oldboy_wusirblog/blog1/zhishu_1_100.py" />
+        <option value="$PROJECT_DIR$/oldboy_wusirblog/blog1/jishu_1_100.py" />
+        <option value="$PROJECT_DIR$/oldboy_wusirblog/SSH_client/ssh_client.py" />
+        <option value="$PROJECT_DIR$/deal_file.py" />
       </list>
     </option>
   </component>
@@ -393,7 +194,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="25" />
+    <option name="x" value="330" />
     <option name="width" value="954" />
     <option name="height" value="788" />
   </component>
@@ -423,11 +224,6 @@
             </path>
             <path>
               <item name="Devpython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Devpython" type="462c0819:PsiDirectoryNode" />
-              <item name="monitor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Devpython" type="b2602c69:ProjectViewProjectNode" />
               <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -443,6 +239,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pythontext\Devpython\oldboy_wusirblog" />
       <recent name="E:\pythontext\Devpython" />
     </key>
   </component>
@@ -458,111 +255,111 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sys_monitor">
-    <configuration name="JD_re_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ssh_client">
+    <configuration name="jishu_1_100" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/re_python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oldboy_wusirblog/blog1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Devpython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/re_python/JD_re_python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oldboy_wusirblog/blog1/jishu_1_100.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Myself_scrapy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ssh_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapy_python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oldboy_wusirblog/SSH_client" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Devpython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapy_python/Myself_scrapy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oldboy_wusirblog/SSH_client/ssh_client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Scrapy_proxy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sum_1_100" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapy_python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oldboy_wusirblog/blog1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Devpython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapy_python/Scrapy_proxy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oldboy_wusirblog/blog1/sum_1_100.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="re_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="web_socket" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/re_python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_python_django" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Devpython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/re_python/re_python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_python_django/web_socket.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="sys_monitor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="while_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/monitor" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oldboy_wusirblog/blog1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Devpython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/monitor/sys_monitor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oldboy_wusirblog/blog1/while_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Scrapy_proxy" />
-      <item index="1" class="java.lang.String" itemvalue="Python.re_python" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Myself_scrapy" />
-      <item index="3" class="java.lang.String" itemvalue="Python.JD_re_python" />
-      <item index="4" class="java.lang.String" itemvalue="Python.sys_monitor" />
+      <item index="0" class="java.lang.String" itemvalue="Python.web_socket" />
+      <item index="1" class="java.lang.String" itemvalue="Python.while_number" />
+      <item index="2" class="java.lang.String" itemvalue="Python.sum_1_100" />
+      <item index="3" class="java.lang.String" itemvalue="Python.jishu_1_100" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ssh_client" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.sys_monitor" />
-        <item index="1" class="java.lang.String" itemvalue="Python.JD_re_python" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Myself_scrapy" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Scrapy_proxy" />
-        <item index="4" class="java.lang.String" itemvalue="Python.re_python" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ssh_client" />
+        <item index="1" class="java.lang.String" itemvalue="Python.jishu_1_100" />
+        <item index="2" class="java.lang.String" itemvalue="Python.sum_1_100" />
+        <item index="3" class="java.lang.String" itemvalue="Python.while_number" />
+        <item index="4" class="java.lang.String" itemvalue="Python.web_socket" />
       </list>
     </recent_temporary>
   </component>
@@ -581,8 +378,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1580938" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1580938" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -646,54 +444,17 @@
           <line>59</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/oldboy_wusirblog/SSH_client/ssh_client.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lean_string/string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lean_string/string笔记">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_function/built_in_functions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_function/define_functions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn_class/oop">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1617">
-          <caret line="49" column="7" lean-forward="false" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_model/data_model">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/learn_class/objectclass.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -1186,7 +947,7 @@
     <entry file="file://$PROJECT_DIR$/scrapy_python/Jd_scrapy_photo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#42#51#0" expanded="true" />
           </folding>
@@ -1196,7 +957,7 @@
     <entry file="file://$PROJECT_DIR$/re_python/JD_re_python.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1211,8 +972,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/monitor/sys_monitor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-532">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        <state relative-caret-position="260">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="29" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_python_django/web_socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oldboy_wusirblog/blog1/sum_1_100.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oldboy_wusirblog/blog1/jishu_1_100.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oldboy_wusirblog/blog1/while_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oldboy_wusirblog/SSH_client/ssh_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deal_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
           <folding />
         </state>
       </provider>
