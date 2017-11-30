@@ -1,0 +1,18 @@
+    HTML标签和元素
+    HTML语法不区分大小写
+    HTML标签属性
+    HTML颜色值的设置
+    HTML文档注释
+    HTML代码格式
+    HTML字符实体
+
+ head元素包含的常用标签
+    title标签  -- 代表HTML文档的标题
+    base标签   -- 将相对URL转换为完整的绝对URL
+    meta标签   -- 用于定义文件信息的名称、内容等信息
+    link标签   -- 当在文档中声明使用外接资源(如CSS)时使用此标签
+    style标签  -- 在文档中声明样式时使用此标签
+    script标签 -- 在文档中使用JavaScript脚本
+
+
+
