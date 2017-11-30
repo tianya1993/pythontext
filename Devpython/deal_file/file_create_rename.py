@@ -5,13 +5,15 @@ import time,datetime
 now= datetime.datetime.now()
 print(now.time())
 print()
-#for i in  range(1,1000):
-"""
-    with open('D:/Apache/'+str(i)+'.txt','w',encoding='utf-8') as file:
+os.chdir("D:/Apache/")
+for i in  range(1,1000):
+
+    with open(str(i)+'.txt','w',encoding='utf-8') as file:
         file.write('{} 是最吉利的数字'.format(i))
-    """
-    #os.remove(str(i)+".txt")
-filelist=os.listdir("D:/Apache/")
+
+    ##os.remove(str(i)+".txt")
+        """
+filelist=os.listdir("")
 for  filename  in filelist:
     #print(filename)
     if os.path.exists("D:/Apache/"+filename):
@@ -21,3 +23,4 @@ for  filename  in filelist:
         #print(filename.split(".")[0])
     else:
         print("The {file} is not  exist".format(file=filename))
+"""
