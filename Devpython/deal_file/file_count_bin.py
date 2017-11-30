@@ -5,7 +5,6 @@
 import  os
 os.chdir("D:/Apache/")
 file_list = os.listdir()
-
 for eachline in  file_list:
     with open(eachline,"rb") as  source_file:
         with open("E:/pythontext/Devpython/deal_file/file_count.jpg","ab")  as    dest_file:

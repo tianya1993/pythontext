@@ -14,54 +14,35 @@
     <SUITE FILE_PATH="coverage/Devpython$read_file.coverage" NAME="read_file Coverage Results" MODIFIED="1512011022743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deal_file" />
     <SUITE FILE_PATH="coverage/Devpython$file_count_bin.coverage" NAME="file_count_bin Coverage Results" MODIFIED="1512013616831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deal_file" />
     <SUITE FILE_PATH="coverage/Devpython$jishu_1_100.coverage" NAME="jishu_1_100 Coverage Results" MODIFIED="1512009136558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oldboy_wusirblog/blog1" />
-    <SUITE FILE_PATH="coverage/Devpython$Scrapy_proxy.coverage" NAME="Scrapy_proxy Coverage Results" MODIFIED="1511834558284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_python" />
-    <SUITE FILE_PATH="coverage/Devpython$ipaddr_info.coverage" NAME="ipaddr_info Coverage Results" MODIFIED="1511507488336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/monitor" />
     <SUITE FILE_PATH="coverage/Devpython$web_socket.coverage" NAME="web_socket Coverage Results" MODIFIED="1511938002883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_python_django" />
+    <SUITE FILE_PATH="coverage/Devpython$ipaddr_info.coverage" NAME="ipaddr_info Coverage Results" MODIFIED="1512025745585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/monitor" />
     <SUITE FILE_PATH="coverage/Devpython$scrapy_2.coverage" NAME="scrapy_2 Coverage Results" MODIFIED="1511767207640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_python" />
-    <SUITE FILE_PATH="coverage/Devpython$re_python.coverage" NAME="re_python Coverage Results" MODIFIED="1511773653710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re_python" />
     <SUITE FILE_PATH="coverage/Devpython$file_create_rename.coverage" NAME="file_create_rename Coverage Results" MODIFIED="1512013669699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deal_file" />
     <SUITE FILE_PATH="coverage/Devpython$objectclass.coverage" NAME="objectclass Coverage Results" MODIFIED="1511507228458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_class" />
-    <SUITE FILE_PATH="coverage/Devpython$9_9.coverage" NAME="9_9 Coverage Results" MODIFIED="1511770802417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_string" />
     <SUITE FILE_PATH="coverage/Devpython$while_number.coverage" NAME="while_number Coverage Results" MODIFIED="1511938729456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oldboy_wusirblog/blog1" />
     <SUITE FILE_PATH="coverage/Devpython$Myself_scrapy.coverage" NAME="Myself_scrapy Coverage Results" MODIFIED="1511840137569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_python" />
+    <SUITE FILE_PATH="coverage/Devpython$ngin_log_access.coverage" NAME="ngin_log_access Coverage Results" MODIFIED="1512026431069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/monitor" />
+    <SUITE FILE_PATH="coverage/Devpython$ssh_client.coverage" NAME="ssh_client Coverage Results" MODIFIED="1511944222620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oldboy_wusirblog/SSH_client" />
+    <SUITE FILE_PATH="coverage/Devpython$file_count.coverage" NAME="file_count Coverage Results" MODIFIED="1512013728656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deal_file" />
+    <SUITE FILE_PATH="coverage/Devpython$Scrapy_proxy.coverage" NAME="Scrapy_proxy Coverage Results" MODIFIED="1511834558284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_python" />
+    <SUITE FILE_PATH="coverage/Devpython$re_python.coverage" NAME="re_python Coverage Results" MODIFIED="1511773653710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re_python" />
+    <SUITE FILE_PATH="coverage/Devpython$9_9.coverage" NAME="9_9 Coverage Results" MODIFIED="1511770802417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lean_string" />
     <SUITE FILE_PATH="coverage/Devpython$JD_re_python.coverage" NAME="JD_re_python Coverage Results" MODIFIED="1511849339001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re_python" />
     <SUITE FILE_PATH="coverage/Devpython$sum_1_100.coverage" NAME="sum_1_100 Coverage Results" MODIFIED="1512009126814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oldboy_wusirblog/blog1" />
     <SUITE FILE_PATH="coverage/Devpython$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1512011532993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deal_file/read_file" />
     <SUITE FILE_PATH="coverage/Devpython$client.coverage" NAME="client Coverage Results" MODIFIED="1510904768782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/http" />
-    <SUITE FILE_PATH="coverage/Devpython$ngin_log_access.coverage" NAME="ngin_log_access Coverage Results" MODIFIED="1511507501819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/monitor" />
     <SUITE FILE_PATH="coverage/Devpython$sys_monitor.coverage" NAME="sys_monitor Coverage Results" MODIFIED="1511857643784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/monitor" />
     <SUITE FILE_PATH="coverage/Devpython$basic_string.coverage" NAME="basic_string Coverage Results" MODIFIED="1510648041891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookbook/cookbook_text" />
-    <SUITE FILE_PATH="coverage/Devpython$ssh_client.coverage" NAME="ssh_client Coverage Results" MODIFIED="1511944222620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oldboy_wusirblog/SSH_client" />
+    <SUITE FILE_PATH="coverage/Devpython$ipinfo.coverage" NAME="ipinfo Coverage Results" MODIFIED="1512019046086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapy_python" />
     <SUITE FILE_PATH="coverage/Devpython$deal_file.coverage" NAME="deal_file Coverage Results" MODIFIED="1511965643796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deal_file" />
-    <SUITE FILE_PATH="coverage/Devpython$file_count.coverage" NAME="file_count Coverage Results" MODIFIED="1512013728656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deal_file" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Scrapy1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scrapy_python/Scrapy1.py">
+      <file leaf-file-name="ngin_log_access.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monitor/ngin_log_access.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="while_number.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oldboy_wusirblog/blog1/while_number.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="deal_file.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deal_file/deal_file.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="627">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,31 +60,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new_date" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deal_file/new_date">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="file_count.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="file_count.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/deal_file/file_count.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state relative-caret-position="213">
+              <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="file_count.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="file_count.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deal_file/file_count.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-627">
-              <caret line="239" column="0" lean-forward="true" selection-start-line="239" selection-start-column="0" selection-end-line="239" selection-end-column="0" />
+            <state relative-caret-position="185">
+              <caret line="998" column="6" lean-forward="true" selection-start-line="998" selection-start-column="6" selection-end-line="998" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -112,26 +83,55 @@
       <file leaf-file-name="file_count_bin.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deal_file/file_count_bin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+            <state relative-caret-position="195">
+              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="file_count.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deal_file/file_count.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="ipaddr_info.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monitor/ipaddr_info.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding>
+                <element signature="e#42#54#0" expanded="true" />
+                <marker date="1512025745558" expanded="true" signature="272:428" ph="insert into ipinfo" />
+                <marker date="1512025745558" expanded="true" signature="272:449" ph="insert into ipinfo" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/deal_file/read_file/__init__.py">
+      <file leaf-file-name="nginx_access.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monitor/nginx_access.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="53">
+              <caret line="227" column="14" lean-forward="false" selection-start-line="227" selection-start-column="14" selection-end-line="227" selection-end-column="14" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Myself_scrapy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapy_python/Myself_scrapy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ipinfo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapy_python/ipinfo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding>
+                <element signature="e#42#64#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -163,7 +163,6 @@
         <option value="$PROJECT_DIR$/data_model/data_model" />
         <option value="$PROJECT_DIR$/cookbook/cookbook_text/basic_string.py" />
         <option value="$PROJECT_DIR$/monitor/sys_monitor.py" />
-        <option value="$PROJECT_DIR$/monitor/ngin_log_access.py" />
         <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/http/client.py" />
         <option value="$PROJECT_DIR$/scrapy_python/3.html" />
         <option value="$PROJECT_DIR$/scrapy_python/bundcredit.html" />
@@ -173,12 +172,10 @@
         <option value="$PROJECT_DIR$/lean_string/9_9.py" />
         <option value="$PROJECT_DIR$/re_python/re_python.py" />
         <option value="$PROJECT_DIR$/scrapy_python/爬虫笔记" />
-        <option value="$PROJECT_DIR$/scrapy_python/Myself_scrapy.py" />
         <option value="$PROJECT_DIR$/scrapy_python/jd.html" />
         <option value="$PROJECT_DIR$/re_python/jd.html" />
         <option value="$PROJECT_DIR$/scrapy_python/Jd_scrapy_photo.py" />
         <option value="$PROJECT_DIR$/re_python/JD_re_python.py" />
-        <option value="$PROJECT_DIR$/monitor/ipaddr_info.py" />
         <option value="$PROJECT_DIR$/web_python_django/web_socket.py" />
         <option value="$PROJECT_DIR$/oldboy_wusirblog/blog1/while_number.py" />
         <option value="$PROJECT_DIR$/oldboy_wusirblog/blog1/sum_1_100.py" />
@@ -194,8 +191,13 @@
         <option value="$PROJECT_DIR$/deal_file/read_file/__init__.py" />
         <option value="$PROJECT_DIR$/deal_file/read_file/file_count.py" />
         <option value="$PROJECT_DIR$/deal_file/file_count.py" />
-        <option value="$PROJECT_DIR$/deal_file/file_count_bin.py" />
         <option value="$PROJECT_DIR$/deal_file/file_count.txt" />
+        <option value="$PROJECT_DIR$/deal_file/file_count_bin.py" />
+        <option value="$PROJECT_DIR$/scrapy_python/Myself_scrapy.py" />
+        <option value="$PROJECT_DIR$/scrapy_python/ipinfo.py" />
+        <option value="$PROJECT_DIR$/monitor/ipaddr_info.py" />
+        <option value="$PROJECT_DIR$/monitor/ngin_log_access.py" />
+        <option value="$PROJECT_DIR$/monitor/nginx_access_log_intomysql.sql" />
       </list>
     </option>
   </component>
@@ -205,8 +207,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="330" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="152" />
+    <option name="y" value="6" />
     <option name="width" value="954" />
     <option name="height" value="788" />
   </component>
@@ -242,13 +245,12 @@
             <path>
               <item name="Devpython" type="b2602c69:ProjectViewProjectNode" />
               <item name="Devpython" type="462c0819:PsiDirectoryNode" />
-              <item name="deal_file" type="462c0819:PsiDirectoryNode" />
-              <item name="read_file" type="462c0819:PsiDirectoryNode" />
+              <item name="lean_string" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Devpython" type="b2602c69:ProjectViewProjectNode" />
               <item name="Devpython" type="462c0819:PsiDirectoryNode" />
-              <item name="lean_string" type="462c0819:PsiDirectoryNode" />
+              <item name="monitor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Devpython" type="b2602c69:ProjectViewProjectNode" />
@@ -287,25 +289,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.file_count">
-    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deal_file/read_file" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Devpython" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deal_file/read_file/__init__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.ngin_log_access">
     <configuration name="file_count" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,24 +304,6 @@
       <module name="Devpython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deal_file/file_count.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="file_count_bin" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deal_file" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Devpython" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deal_file/file_count_bin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -360,38 +326,74 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="read_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ipaddr_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deal_file" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/monitor" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Devpython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deal_file/read_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/monitor/ipaddr_info.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="ipinfo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapy_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Devpython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapy_python/ipinfo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="ngin_log_access" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/monitor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Devpython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/monitor/ngin_log_access.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.file_create_rename" />
-      <item index="1" class="java.lang.String" itemvalue="Python.read_file" />
-      <item index="2" class="java.lang.String" itemvalue="Python.__init__" />
-      <item index="3" class="java.lang.String" itemvalue="Python.file_count" />
-      <item index="4" class="java.lang.String" itemvalue="Python.file_count_bin" />
+      <item index="1" class="java.lang.String" itemvalue="Python.file_count" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ipinfo" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ipaddr_info" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ngin_log_access" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.file_count" />
-        <item index="1" class="java.lang.String" itemvalue="Python.file_create_rename" />
-        <item index="2" class="java.lang.String" itemvalue="Python.file_count_bin" />
-        <item index="3" class="java.lang.String" itemvalue="Python.__init__" />
-        <item index="4" class="java.lang.String" itemvalue="Python.read_file" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ngin_log_access" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ipaddr_info" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ipinfo" />
+        <item index="3" class="java.lang.String" itemvalue="Python.file_count" />
+        <item index="4" class="java.lang.String" itemvalue="Python.file_create_rename" />
       </list>
     </recent_temporary>
   </component>
@@ -418,16 +420,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32730263" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32730263" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1580938" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -491,26 +492,17 @@
           <line>9</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/monitor/ipaddr_info.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learn_class/objectclass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cookbook/cookbook_text/basic_string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lean_string/string.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
@@ -560,13 +552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monitor/nginx_access.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7755">
-          <caret line="235" column="20" lean-forward="false" selection-start-line="235" selection-start-column="20" selection-end-line="235" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/http/client.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1490">
@@ -586,14 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monitor/ngin_log_access.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -668,14 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapy_python/Myself_scrapy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="32" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -929,14 +898,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monitor/ipaddr_info.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/monitor/sys_monitor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -1035,17 +996,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deal_file/file_count_bin.py">
+    <entry file="file://$PROJECT_DIR$/deal_file/file_count.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy_python/Myself_scrapy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        <state relative-caret-position="283">
+          <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deal_file/file_count.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/scrapy_python/ipinfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#42#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monitor/nginx_access.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="227" column="14" lean-forward="false" selection-start-line="227" selection-start-column="14" selection-end-line="227" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deal_file/file_count_bin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deal_file/file_count.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="998" column="6" lean-forward="true" selection-start-line="998" selection-start-column="6" selection-end-line="998" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monitor/ngin_log_access.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monitor/nginx_access_log_intomysql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-201">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monitor/ipaddr_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="e#42#54#0" expanded="true" />
+            <marker date="1512025745558" expanded="true" signature="272:428" ph="insert into ipinfo" />
+            <marker date="1512025745558" expanded="true" signature="272:449" ph="insert into ipinfo" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/deal_file/file_create_rename.py">
@@ -1060,16 +1083,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/deal_file/file_count.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deal_file/file_count.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-627">
-          <caret line="239" column="0" lean-forward="true" selection-start-line="239" selection-start-column="0" selection-end-line="239" selection-end-column="0" />
+        <state relative-caret-position="213">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           <folding />
         </state>
       </provider>
