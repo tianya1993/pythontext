@@ -16,7 +16,6 @@ opener.addheaders=[heards]
 data=opener.open(url).read()
 print(data)
 """
-
 """
 file=urllib.request.urlretrieve("http://www.baidu.com","index.html")
 url="http://www.baidu.com"

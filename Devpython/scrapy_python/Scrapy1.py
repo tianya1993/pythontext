@@ -7,7 +7,7 @@ headers = ("User-Agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Geck
 opener = urllib.request.build_opener()
 opener.addheaders=[headers]
 data=opener.open(url).read()
-with  open( "1.html", "wb") as fileinfo:
+with  open( "1.html", "wb",) as fileinfo:
     fileinfo.write(data)
 
 

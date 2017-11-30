@@ -1,5 +1,4 @@
-1¡¢²Ö¿â½éÉÜ
- ÒÔÇ°ÔÚ¹¤×÷ºÍÑ§Ï°µÄ¹ý³ÌÖÐ£¬½«×Ô¼ºµÄ´úÂëºÍ½Å±¾µÈÐÅÏ¢Ëæ±ã·ÅÖÃ£¬µ¼ÖÂºÃ¶à¶«Î÷ÏëÔÙ´ÎÀûÓÃÊ±ÒÑ¾­ÕÒ²»µ½·ÅÔÚÄÇÀïÁË£¬
-Õâ´ÎÏëÈÏÕæµÄÑ§Ï°pythonËùÒÔ½«Æä¼ÇÂ¼ÔÚ´Ë¡£ÒÔ¹©×Ô¼ººóÆÚ²é¿´¡£
+æœ¬é¡¹ç›®è·¯å¾„æ˜¯æœ¬äººå­¦ä¹ pythonçš„ç»ƒä¹ ç›®å½•ï¼Œ
 
-headfirstpython  ÊÇheadfirstpythonÊéÖÐµÄÊµÀý 
+é‡Œé¢å¯èƒ½åŒ…å«ä¸€äº›å·¥ä½œå•ä½åç§°ç­‰æ•°æ®ï¼Œ
+åŸºæœ¬ä¸Šéƒ½èƒ½å…¬å¼€ï¼Œ 
