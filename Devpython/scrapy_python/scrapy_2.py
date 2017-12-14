@@ -55,6 +55,4 @@ def user_proxy(proxy_add,url):
 	data=urllib.request.urlopen(url).read()
 	return  data
 proxy_addr="202.202.90.20:8080"
-data=user_proxy(proxy_addr,"http://blog.csdn.net/")
-with  open("ip.html","wb") as file_ip:
-	file_ip.write(data)
+data=user_proxy(proxy_addr,"http://www.bundcredit.com")

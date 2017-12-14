@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="b4eb1319-e4a4-4351-865b-727532f8f898" name="默认的" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Devpython/monitor/pythontest.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Jsp/hello.js" />
@@ -9,6 +10,9 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_css/html_css.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Devpython/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Devpython/.idea/workspace.xml" />
     </list>
+=======
+    <list default="true" id="b3e81f54-f478-4ac4-8419-a319668890ab" name="默认的" comment="" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/pythontext$sys_monitor.coverage" NAME="sys_monitor Coverage Results" MODIFIED="1513142935750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Devpython/monitor" />
     <SUITE FILE_PATH="coverage/pythontext$pythontest.coverage" NAME="pythontest Coverage Results" MODIFIED="1513144313706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Devpython/monitor" />
   </component>
@@ -27,11 +32,27 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
               <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+=======
+    <SUITE FILE_PATH="coverage/pythontext$Scrapy_3_crawl.coverage" NAME="Scrapy_3_crawl Coverage Results" MODIFIED="1511790785661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Devpython/scrapy_python" />
+    <SUITE FILE_PATH="coverage/pythontext$ipaddr_info.coverage" NAME="ipaddr_info Coverage Results" MODIFIED="1511788588365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Devpython/monitor" />
+    <SUITE FILE_PATH="coverage/pythontext$ngin_log_access.coverage" NAME="ngin_log_access Coverage Results" MODIFIED="1511788636573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Devpython/monitor" />
+    <SUITE FILE_PATH="coverage/pythontext$scrapy_2.coverage" NAME="scrapy_2 Coverage Results" MODIFIED="1511790793164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Devpython/scrapy_python" />
+    <SUITE FILE_PATH="coverage/pythontext$random2.coverage" NAME="random2 Coverage Results" MODIFIED="1511789158239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncrawl/firstpython" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="scrapy_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/scrapy_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="57" column="16" lean-forward="false" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="demo1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html_css/demo1.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -82,20 +103,37 @@
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Devpython/python_html/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <folding />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="ipinfo.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Devpython/monitor/ipinfo.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+      <file leaf-file-name="random2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythoncrawl/firstpython/random2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="ipaddr_info.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Devpython/monitor/ipaddr_info.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,10 +143,19 @@
                 <element signature="e#42#54#0" expanded="true" />
                 <marker date="1512025745558" expanded="true" signature="272:428" ph="insert into ipinfo" />
               </folding>
+=======
+      <file leaf-file-name="Scrapy_3_crawl.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/Scrapy_3_crawl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+              <folding />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="pythontest.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Devpython/monitor/pythontest.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,11 +165,50 @@
                 <element signature="e#83#95#0" expanded="true" />
                 <marker date="1513144313690" expanded="true" signature="572:799" ph="insert into ip_class" />
                 <marker date="1513144313690" expanded="true" signature="579:672" ph="insert into ip_class... " />
+=======
+      <file leaf-file-name="day1_1.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html_css/day1/day1_1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <folding>
+                <element signature="e#139#143#0" expanded="true" />
+                <element signature="e#145#149#0" expanded="true" />
+                <element signature="e#176#180#0" expanded="true" />
+                <element signature="e#182#186#0" expanded="true" />
+                <element signature="e#213#217#0" expanded="true" />
+                <element signature="e#219#223#0" expanded="true" />
+                <element signature="e#250#254#0" expanded="true" />
+                <element signature="e#256#260#0" expanded="true" />
+                <element signature="e#287#291#0" expanded="true" />
+                <element signature="e#293#297#0" expanded="true" />
+                <element signature="e#324#328#0" expanded="true" />
+                <element signature="e#330#334#0" expanded="true" />
+                <element signature="e#584#588#0" expanded="true" />
+                <element signature="e#589#593#0" expanded="true" />
+                <element signature="e#621#625#0" expanded="true" />
+                <element signature="e#626#630#0" expanded="true" />
+                <element signature="e#663#667#0" expanded="true" />
+                <element signature="e#668#672#0" expanded="true" />
+                <element signature="e#701#705#0" expanded="true" />
+                <element signature="e#707#711#0" expanded="true" />
+                <element signature="e#745#749#0" expanded="true" />
+                <element signature="e#753#757#0" expanded="true" />
+                <element signature="e#795#799#0" expanded="true" />
+                <element signature="e#801#805#0" expanded="true" />
+                <element signature="e#842#846#0" expanded="true" />
+                <element signature="e#852#856#0" expanded="true" />
+                <element signature="e#896#900#0" expanded="true" />
+                <element signature="e#905#909#0" expanded="true" />
+                <element signature="e#945#949#0" expanded="true" />
+                <element signature="e#952#956#0" expanded="true" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="sys_monitor.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Devpython/monitor/sys_monitor.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -148,11 +234,19 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+=======
+      <file leaf-file-name="html_css.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html_css/html_css.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="demo2_list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html_css/demo2_list.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -160,6 +254,18 @@
               <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#hr#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+=======
+      <file leaf-file-name="baidu2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/baidu2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <marker date="1512045495118" expanded="true" signature="17794:17822" ph="..." />
+                <marker date="1512045495118" expanded="true" signature="17894:18034" ph="..." />
+                <marker date="1512045495118" expanded="true" signature="22477:22517" ph="..." />
+                <marker date="1512045495118" expanded="true" signature="112857:113249" ph="{...}" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
               </folding>
             </state>
           </provider>
@@ -170,9 +276,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< HEAD
         <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="Python Script" />
+=======
+        <option value="Python Script" />
+        <option value="HTML File" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
       </list>
     </option>
   </component>
@@ -182,6 +293,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/html_css/html_css.txt" />
         <option value="$PROJECT_DIR$/html_css/demo2.html" />
         <option value="$PROJECT_DIR$/html_css/demo1.html" />
@@ -191,6 +303,16 @@
         <option value="$PROJECT_DIR$/Jsp/hello.html" />
         <option value="$PROJECT_DIR$/Jsp/hello.js" />
         <option value="$PROJECT_DIR$/Devpython/monitor/pythontest.py" />
+=======
+        <option value="$PROJECT_DIR$/Devpython/monitor/ipaddr_info.py" />
+        <option value="$PROJECT_DIR$/Devpython/python_html/index.html" />
+        <option value="$PROJECT_DIR$/Devpython/scrapy_python/pachong" />
+        <option value="$PROJECT_DIR$/Devpython/scrapy_python/Scrapy_3_crawl.py" />
+        <option value="$PROJECT_DIR$/Devpython/scrapy_python/scrapy_2.py" />
+        <option value="$PROJECT_DIR$/Devpython/scrapy_python/baidu2.html" />
+        <option value="$PROJECT_DIR$/html_css/html_css.txt" />
+        <option value="$PROJECT_DIR$/html_css/day1/day1_1.html" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
       </list>
     </option>
   </component>
@@ -200,11 +322,19 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="194" />
     <option name="y" value="56" />
     <option name="width" value="954" />
     <option name="height" value="788" />
+=======
+  <component name="ProjectFrameBounds">
+    <option name="x" value="85" />
+    <option name="y" value="36" />
+    <option name="width" value="1148" />
+    <option name="height" value="624" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -237,14 +367,23 @@
             <path>
               <item name="pythontext" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythontext" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="Devpython" type="462c0819:PsiDirectoryNode" />
               <item name="monitor" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="html_css" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
             </path>
             <path>
               <item name="pythontext" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythontext" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="Devpython" type="462c0819:PsiDirectoryNode" />
               <item name="scrapy_python" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="html_css" type="462c0819:PsiDirectoryNode" />
+              <item name="day1" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
             </path>
           </expand>
           <select />
@@ -255,12 +394,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\pythontext\html_css\day1" />
+=======
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/html_css/day1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\pythontext\html_css\day1" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
     </key>
   </component>
   <component name="RunDashboard">
@@ -275,27 +423,45 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.pythontest">
     <configuration name="hello.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pythontext/Jsp/hello.html" />
     <configuration name="pythontest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="JavaScript Debug.day1_1.html">
+    <configuration name="Scrapy_3_crawl" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Devpython/monitor" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Devpython/scrapy_python" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythontext" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devpython/monitor/pythontest.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devpython/scrapy_python/Scrapy_3_crawl.py" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="sys_monitor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="day1_1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pythontext/html_css/day1/day1_1.html" />
+    <configuration name="ngin_log_access" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -308,11 +474,16 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="pythontext" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devpython/monitor/sys_monitor.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devpython/monitor/ngin_log_access.py" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+<<<<<<< HEAD
     <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.hello.html" />
       <item index="1" class="java.lang.String" itemvalue="Python.pythontest" />
@@ -323,6 +494,58 @@
         <item index="0" class="java.lang.String" itemvalue="Python.pythontest" />
         <item index="1" class="java.lang.String" itemvalue="Python.sys_monitor" />
         <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.hello.html" />
+=======
+    <configuration name="random2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythoncrawl/firstpython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythontext" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythoncrawl/firstpython/random2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="scrapy_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Devpython/scrapy_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythontext" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Devpython/scrapy_python/scrapy_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.scrapy_2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ngin_log_access" />
+      <item index="2" class="java.lang.String" itemvalue="Python.random2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Scrapy_3_crawl" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.day1_1.html" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.day1_1.html" />
+        <item index="1" class="java.lang.String" itemvalue="Python.scrapy_2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Scrapy_3_crawl" />
+        <item index="3" class="java.lang.String" itemvalue="Python.random2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ngin_log_access" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
       </list>
     </recent_temporary>
   </component>
@@ -331,15 +554,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="b4eb1319-e4a4-4351-865b-727532f8f898" name="默认的" comment="" />
       <created>1512047266147</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512047266147</updated>
+=======
+      <changelist id="b3e81f54-f478-4ac4-8419-a319668890ab" name="默认的" comment="" />
+      <created>1511788419673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511788419673</updated>
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1603631" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -386,6 +618,54 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
+    <frame x="85" y="36" width="1148" height="624" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21323529" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26229507" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26229507" sideWeight="0.5030257" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.4969743" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21323529" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,14 +679,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/html_css/html_css.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+=======
+    <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/scrapy_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/html_css/demo1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1881">
@@ -465,18 +753,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+=======
+    <entry file="file://$PROJECT_DIR$/Devpython/python_html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pythoncrawl/firstpython/random2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/Scrapy_3_crawl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/html_css/day1/table.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+=======
+    <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/Scrapy1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Devpython/python_html/banner.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -496,10 +814,34 @@
           <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#hr#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/baidu2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <marker date="1512045495118" expanded="true" signature="17794:17822" ph="..." />
+            <marker date="1512045495118" expanded="true" signature="17894:18034" ph="..." />
+            <marker date="1512045495118" expanded="true" signature="22477:22517" ph="..." />
+            <marker date="1512045495118" expanded="true" signature="112857:113249" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/baidu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <marker date="1511789162381" expanded="true" signature="17110:17138" ph="..." />
+            <marker date="1511789162381" expanded="true" signature="17210:17350" ph="..." />
+            <marker date="1511789162381" expanded="true" signature="21603:21643" ph="..." />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Jsp/hello.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2343">
@@ -514,10 +856,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+=======
+    <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/pachong">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Devpython/monitor/ipaddr_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/html_css/demo1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1881">
@@ -576,18 +933,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+=======
+    <entry file="file://$PROJECT_DIR$/Devpython/monitor/ngin_log_access.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/scrapy_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Devpython/python_html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/html_css/day1/table.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+=======
+    <entry file="file://$PROJECT_DIR$/pythoncrawl/firstpython/random2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Devpython/python_html/banner.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -597,30 +984,68 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="26" />
+=======
+    <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/Scrapy_3_crawl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/Scrapy1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/html_css/demo2_list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#hr#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/baidu2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <marker date="1512045495118" expanded="true" signature="17794:17822" ph="..." />
+            <marker date="1512045495118" expanded="true" signature="17894:18034" ph="..." />
+            <marker date="1512045495118" expanded="true" signature="22477:22517" ph="..." />
+            <marker date="1512045495118" expanded="true" signature="112857:113249" ph="{...}" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Jsp/hello.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2343">
           <caret line="71" column="23" lean-forward="false" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/baidu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <marker date="1511789162381" expanded="true" signature="17110:17138" ph="..." />
+            <marker date="1511789162381" expanded="true" signature="17210:17350" ph="..." />
+            <marker date="1511789162381" expanded="true" signature="21603:21643" ph="..." />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Devpython/python_html/banner.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -644,18 +1069,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="26" />
+=======
+    <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/pachong">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Devpython/monitor/ipaddr_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Devpython/monitor/ngin_log_access.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/html_css/day1/table.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+=======
+    <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/ip.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Devpython/monitor/ipaddr_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/html_css/demo2_list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
@@ -670,10 +1132,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+=======
+    <entry file="file://$PROJECT_DIR$/Devpython/monitor/ngin_log_access.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/pachong">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/html_css/demo1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1881">
@@ -718,10 +1195,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+=======
+    <entry file="file://$PROJECT_DIR$/Devpython/python_html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pythoncrawl/firstpython/random2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Jsp/hello.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
@@ -733,6 +1225,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Devpython/monitor/ipinfo.sql">
+=======
+    <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/scrapy_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="57" column="16" lean-forward="false" selection-start-line="57" selection-start-column="16" selection-end-line="57" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/Scrapy_3_crawl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/Scrapy1.py">
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -740,6 +1251,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Devpython/monitor/ipaddr_info.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-528">
@@ -747,18 +1259,54 @@
           <folding>
             <element signature="e#42#54#0" expanded="true" />
             <marker date="1512025745558" expanded="true" signature="272:428" ph="insert into ipinfo" />
+=======
+    <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/baidu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <marker date="1511789162381" expanded="true" signature="17110:17138" ph="..." />
+            <marker date="1511789162381" expanded="true" signature="17210:17350" ph="..." />
+            <marker date="1511789162381" expanded="true" signature="21603:21643" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Devpython/scrapy_python/baidu2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <marker date="1512045495118" expanded="true" signature="17794:17822" ph="..." />
+            <marker date="1512045495118" expanded="true" signature="17894:18034" ph="..." />
+            <marker date="1512045495118" expanded="true" signature="22477:22517" ph="..." />
+            <marker date="1512045495118" expanded="true" signature="112857:113249" ph="{...}" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Devpython/monitor/sys_monitor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+=======
+    <entry file="file://$PROJECT_DIR$/Devpython/python_html/banner.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_css/html_css.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Devpython/monitor/pythontest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
@@ -767,6 +1315,43 @@
             <element signature="e#83#95#0" expanded="true" />
             <marker date="1513144313690" expanded="true" signature="572:799" ph="insert into ip_class" />
             <marker date="1513144313690" expanded="true" signature="579:672" ph="insert into ip_class... " />
+=======
+    <entry file="file://$PROJECT_DIR$/html_css/day1/day1_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="e#139#143#0" expanded="true" />
+            <element signature="e#145#149#0" expanded="true" />
+            <element signature="e#176#180#0" expanded="true" />
+            <element signature="e#182#186#0" expanded="true" />
+            <element signature="e#213#217#0" expanded="true" />
+            <element signature="e#219#223#0" expanded="true" />
+            <element signature="e#250#254#0" expanded="true" />
+            <element signature="e#256#260#0" expanded="true" />
+            <element signature="e#287#291#0" expanded="true" />
+            <element signature="e#293#297#0" expanded="true" />
+            <element signature="e#324#328#0" expanded="true" />
+            <element signature="e#330#334#0" expanded="true" />
+            <element signature="e#584#588#0" expanded="true" />
+            <element signature="e#589#593#0" expanded="true" />
+            <element signature="e#621#625#0" expanded="true" />
+            <element signature="e#626#630#0" expanded="true" />
+            <element signature="e#663#667#0" expanded="true" />
+            <element signature="e#668#672#0" expanded="true" />
+            <element signature="e#701#705#0" expanded="true" />
+            <element signature="e#707#711#0" expanded="true" />
+            <element signature="e#745#749#0" expanded="true" />
+            <element signature="e#753#757#0" expanded="true" />
+            <element signature="e#795#799#0" expanded="true" />
+            <element signature="e#801#805#0" expanded="true" />
+            <element signature="e#842#846#0" expanded="true" />
+            <element signature="e#852#856#0" expanded="true" />
+            <element signature="e#896#900#0" expanded="true" />
+            <element signature="e#905#909#0" expanded="true" />
+            <element signature="e#945#949#0" expanded="true" />
+            <element signature="e#952#956#0" expanded="true" />
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
           </folding>
         </state>
       </provider>

@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Html与CSS笔记
 1、HTML标签和元素
+=======
+    HTML标签和元素
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
     HTML语法不区分大小写
     HTML标签属性
     HTML颜色值的设置
@@ -13,4 +17,11 @@ Html与CSS笔记
     meta标签   -- 用于定义文件信息的名称、内容等信息
     link标签   -- 当在文档中声明使用外接资源(如CSS)时使用此标签
     style标签  -- 在文档中声明样式时使用此标签
+<<<<<<< HEAD
     script标签 -- 在文档中使用JavaScript脚本
+=======
+    script标签 -- 在文档中使用JavaScript脚本
+
+
+
+>>>>>>> 31728e877d1e39dce65644c474f5f835eb0b635e
